@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "sample",
+  "name": "Sample",
+  "version": "1.0.0",
+  "contributes": { "actions": "./index.ts" }
+}

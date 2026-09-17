@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "locale-pack",
+  "name": "Locale Pack",
+  "version": "1.0.0",
+  "contributes": { "locales": ["./pt-PT.json", "./broken.json"] }
+}

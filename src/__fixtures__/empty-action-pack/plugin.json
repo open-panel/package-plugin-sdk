@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "empty-action-pack",
+  "name": "Empty Action Pack",
+  "version": "1.0.0",
+  "contributes": { "actions": "./index.ts" }
+}

@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "empty-device-pack",
+  "name": "Empty Device Pack",
+  "version": "1.0.0",
+  "contributes": { "devices": "./index.ts" }
+}

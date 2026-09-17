@@ -1,0 +1,5 @@
+{
+  "id": "pt-PT",
+  "name": "Português (Portugal)",
+  "messages": { "common.save": "Guardar", "common.delete": "Eliminar" }
+}

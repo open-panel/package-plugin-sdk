@@ -1,0 +1,8 @@
+{
+  "manifestVersion": 1,
+  "id": "theme-pack",
+  "name": "Theme Pack",
+  "version": "2.0.0",
+  "author": "Someone",
+  "contributes": { "themes": ["./themes/good.json", "./themes/bad.json"] }
+}

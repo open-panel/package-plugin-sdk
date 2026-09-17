@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "device-pack",
+  "name": "Device Pack",
+  "version": "1.0.0",
+  "contributes": { "actions": "./index.ts", "devices": "./index.ts" }
+}

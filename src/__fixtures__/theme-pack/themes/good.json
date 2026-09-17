@@ -1,0 +1,15 @@
+{
+  "id": "packed",
+  "name": "Packed",
+  "appearance": "dark",
+  "palette": {
+    "background": "#282a36",
+    "surface": "#44475a",
+    "foreground": "#f8f8f2",
+    "dim": "#6272a4",
+    "accent": "#bd93f9",
+    "success": "#50fa7b",
+    "warning": "#ffb86c",
+    "danger": "#ff5555"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "broken",
+  "name": "Broken",
+  "version": "1.0.0",
+  "contributes": { "actions": "./index.ts" }
+}
